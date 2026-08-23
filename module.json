@@ -1,7 +1,7 @@
 {
     "disableAutoUpdate": false,
     "name": "auto-loot",
-    "version": "2.0",
+    "version": "2.7",
     "author": "ballzyxx",
     "description": "Auto loot module.",
     "servers": [
