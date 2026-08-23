@@ -1,0 +1,3 @@
+module.config.json
+scripts/*
+!scripts/generate-manifest.js

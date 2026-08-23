@@ -1,0 +1,13 @@
+{
+    "disableAutoUpdate": false,
+    "name": "auto-loot",
+    "version": "2.0",
+    "author": "melaxrinos199291",
+    "description": "Auto loot module.",
+    "servers": [
+        "https://cdn.jsdelivr.net/gh/melaxrinos199291/auto-loot@main/"
+    ],
+    "options": {
+        "niceName": "Auto Loot"
+    }
+}
