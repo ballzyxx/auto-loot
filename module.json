@@ -1,11 +1,11 @@
 {
     "disableAutoUpdate": false,
     "name": "auto-loot",
-    "version": "2.7",
+    "version": "2.8",
     "author": "ballzyxx",
     "description": "Auto loot module.",
     "servers": [
-        "https://cdn.jsdelivr.net/gh/ballzyxx/auto-loot@v2.7/"
+        "https://raw.githubusercontent.com/ballzyxx/auto-loot/main/"
     ],
     "options": {
         "niceName": "Auto Loot"
